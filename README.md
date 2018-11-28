@@ -5,11 +5,11 @@ You need to install python3 on your computer along with the following modules:
 
 $ pip3 install numpy
 
-## make sure to install cmake first ***
+## Iinstall cmake first
 $ pip3 install dlib     
 
-## for pkg_resources
+## pkg_resources
 $ pip3 install setuptools     
 
-## for cv2
+## cv2
 $ pip3 install opencv-python      
