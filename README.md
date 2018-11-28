@@ -5,7 +5,7 @@ You need to install python3 on your computer along with the following modules:
 
 $ pip3 install numpy
 
-## Iinstall cmake first
+## Install cmake first
 $ pip3 install dlib     
 
 ## pkg_resources
